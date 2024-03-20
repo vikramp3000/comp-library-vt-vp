@@ -1,6 +1,6 @@
 {
   "name": "comp-library-vt-vp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/cjs/index.js",
   "files": [
@@ -13,7 +13,11 @@
   "author": "vik",
   "license": "MIT",
   "type": "module",
-  "keywords": ["react", "component", "library"],
+  "keywords": [
+    "react",
+    "component",
+    "library"
+  ],
   "devDependencies": {
     "@rollup/plugin-commonjs": "^25.0.7",
     "@rollup/plugin-node-resolve": "^15.2.3",
